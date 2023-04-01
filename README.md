@@ -1,6 +1,6 @@
 # **Fruit Identification using ResNet9 Architecture Based CNN Deep Learning Model**
 
-<img src="https://user-images.githubusercontent.com/110101325/229269013-8374b23b-db50-4b1c-abf8-b1d8188826e8.png">
+<img src="https://user-images.githubusercontent.com/110101325/229269013-8374b23b-db50-4b1c-abf8-b1d8188826e8.png" width="1000">
 
 
 
