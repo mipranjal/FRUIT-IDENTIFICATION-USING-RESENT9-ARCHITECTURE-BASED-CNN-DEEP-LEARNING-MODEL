@@ -1,4 +1,6 @@
 # **Fruit Identification using ResNet9 Architecture Based CNN Deep Learning Model**
+
+
 This code implements a deep learning model based on ResNet9 architecture to identify fruits from images. Fruits are an important source of nutrients and fiber in our diets, and it is essential to identify them correctly for people with specific dietary requirements.
 
 The model is trained on the Fruits 360 dataset, which is a large and extensive dataset containing 131 categories of fruits and vegetables. The dataset includes images of fruits like Apples, Apricots, Avocados, Bananas, Blueberries, Cactus fruit, Cantaloupes, Cherries, Chestnuts, Clementines, Corn, Cucumbers, Dates, Eggplants, Figs, Ginger Root, Grapefruits, Grapes, Guavas, Hazelnuts, Huckleberries, Kiwis, Lemons, Limes, Lychees, Mandarines, Mangoes, Mangostans, Melons, Mulberries, Nectarines, Onions, Oranges, Papayas, Passion fruits, Peaches, Pears, Peppers, Pineapples, Plums, Pomegranates, Potatoes, Quinces, Rambutans, Raspberries, Redcurrants, Salaks, Strawberries, Tamarillos, Tangelos, Tomatoes, Walnuts, and Watermelons.
