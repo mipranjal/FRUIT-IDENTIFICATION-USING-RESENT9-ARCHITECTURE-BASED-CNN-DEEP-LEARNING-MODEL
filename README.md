@@ -1,5 +1,8 @@
 # **Fruit Identification using ResNet9 Architecture Based CNN Deep Learning Model**
 
+<img src="https://user-images.githubusercontent.com/110101325/229269013-8374b23b-db50-4b1c-abf8-b1d8188826e8.png">
+
+
 
 This code implements a deep learning model based on ResNet9 architecture to identify fruits from images. Fruits are an important source of nutrients and fiber in our diets, and it is essential to identify them correctly for people with specific dietary requirements.
 
